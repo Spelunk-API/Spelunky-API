@@ -4,7 +4,7 @@ An api for collecting info on Spelunky 2 with support for the other two games co
 Base API URL : https://spelunky-api.onrender.com/api
 
 - Characters Endpoint : https://spelunky-api.onrender.com/api/characters
-- Monsters Endpoint : https://spelunky-api.onrender.com/api/monsters
-- Items Endpoint : https://spelunky-api.onrender.com/api/items
+- Monsters Endpoint : https://spelunky-api.onrender.com/api/monsters (WIP)
+- Items Endpoint : https://spelunky-api.onrender.com/api/items (WIP)
 - Places Endpoint : https://spelunky-api.onrender.com/api/places
-- Traps Endpoint : https://spelunky-api.onrender.com/api/traps
+- Traps Endpoint : https://spelunky-api.onrender.com/api/traps (WIP)
